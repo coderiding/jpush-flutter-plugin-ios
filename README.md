@@ -11,7 +11,7 @@
 dependencies:
   jpush_flutter:
     git:
-      url: git://github.com/jpush/jpush-flutter-plugin.git
+      url: https://github.com/coderiding/jpush-flutter-plugin-ios.git
       ref: master
       
 // pub 集成
